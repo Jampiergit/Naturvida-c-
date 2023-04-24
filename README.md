@@ -1,2 +1,2 @@
-# Naturvida-c-
+# Repositorio de prueba
 Proyecto Naturvida c#
